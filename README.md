@@ -4,7 +4,6 @@
 
 ### Embedded Software Projects • Drivers • Communication Protocols • Real-Time Applications
 
-<img src="Images/banner.png" width="100%">
 
 ![C](https://img.shields.io/badge/Language-Embedded%20C-blue?style=for-the-badge)
 ![MCU](https://img.shields.io/badge/MCU-ATmega32-red?style=for-the-badge)
