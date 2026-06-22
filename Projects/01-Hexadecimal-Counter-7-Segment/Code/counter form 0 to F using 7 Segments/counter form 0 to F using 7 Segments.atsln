@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "counter form 0 to F using 7 Segments", "counter form 0 to F using 7 Segments\counter form 0 to F using 7 Segments.cproj", "{C85F5A01-925F-49DB-B197-A05E3B152B0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C85F5A01-925F-49DB-B197-A05E3B152B0D}.Debug|AVR.ActiveCfg = Debug|AVR
+		{C85F5A01-925F-49DB-B197-A05E3B152B0D}.Debug|AVR.Build.0 = Debug|AVR
+		{C85F5A01-925F-49DB-B197-A05E3B152B0D}.Release|AVR.ActiveCfg = Release|AVR
+		{C85F5A01-925F-49DB-B197-A05E3B152B0D}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

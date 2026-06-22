@@ -1,0 +1,25 @@
+/*
+ * LCDconfig.h
+ *
+ * Created: 4/21/2026 11:32:35 PM
+ *  Author: Cascoo
+ */ 
+
+
+#ifndef LCDCONFIG_H_
+#define LCDCONFIG_H_
+
+#define LCD_port 'A' //if working on 4 bits mode use the high nibble pins
+
+//#define FOUR_BITS
+#define EIGHT_BITS
+
+#define LCD_control_port 'D' 
+#define E 6
+#define RS 7
+
+
+
+
+
+#endif /* LCDCONFIG_H_ */

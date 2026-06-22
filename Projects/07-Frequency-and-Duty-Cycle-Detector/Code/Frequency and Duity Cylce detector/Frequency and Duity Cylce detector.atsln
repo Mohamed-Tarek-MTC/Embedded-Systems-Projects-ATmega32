@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "Frequency and Duity Cylce detector", "Frequency and Duity Cylce detector\Frequency and Duity Cylce detector.cproj", "{2E20AA71-8AEE-41B5-BB85-6C5955A955EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E20AA71-8AEE-41B5-BB85-6C5955A955EE}.Debug|AVR.ActiveCfg = Debug|AVR
+		{2E20AA71-8AEE-41B5-BB85-6C5955A955EE}.Debug|AVR.Build.0 = Debug|AVR
+		{2E20AA71-8AEE-41B5-BB85-6C5955A955EE}.Release|AVR.ActiveCfg = Release|AVR
+		{2E20AA71-8AEE-41B5-BB85-6C5955A955EE}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
