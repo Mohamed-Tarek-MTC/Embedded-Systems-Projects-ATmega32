@@ -131,7 +131,7 @@ Theoritical knowledge:
 |----------|-------------|
 | 🌱 Smart Green House | Distributed greenhouse automation system using two communicating microcontrollers. |
 | 🏠 Smart Home | Complete multi-MCU smart home with authentication and home automation. |
-| ⏰ Real Time Clock | Software RTC implementation using timer interrupts. |
+| ⌚ Real Time Clock | Software RTC implementation using timer interrupts. |
 | 🌡 Temperature Sensor | Temperature monitoring using ADC. |
 | 📏 Ultrasonic Distance Meter | Distance measurement using HC-SR04. |
 | 📈 Digital Voltmeter | Analog voltage measurement. |
@@ -141,7 +141,7 @@ Theoritical knowledge:
 | 📡 UART Communication | UART communication between two MCUs. |
 | 🔄 SPI Communication | Master/Slave SPI implementation. |
 | 🔗 I2C Communication | Master/Slave TWI implementation. |
-| ⚙ Frequency & Duty Cycle Detector | ICU-based frequency measurement. |
+| 〰 Frequency & Duty Cycle Detector | ICU-based frequency measurement. |
 | 🔢 Seven Segment Counter | Hexadecimal counter. |
 | 📺 LCD Text Display | LCD Driver demonstration. |
 | ⚡ Motor Control | DC & Servo Motor control. |
